@@ -2,7 +2,7 @@
 # coding: utf-8
 
 
-# Le premier vrai code en python
+# Le premier vrai code en Python
 # Jeu python Shifumi
 
 #On importe la librairie
